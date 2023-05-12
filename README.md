@@ -1,2 +1,1 @@
-# Python
-Projetos iniciais em Python
+# Primeiros  Projetos criados em Python
